@@ -1,2 +1,3 @@
 # learn-docker
-Docker Samples for learning 
+
+docker run -it node - Run node image in interactive mode
